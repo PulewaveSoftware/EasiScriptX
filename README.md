@@ -3,11 +3,11 @@
 
 ## Introduction
 
-EasiScriptX  a high level programming language designed specifically for AI, Machine Learning (ML), Deep Learning, and Large Language Models (LLMs). It supports **both Object-Oriented** and **Functional Programming** paradigms, making it adaptable and easy to use. While being powerful and flexible, ESX remains user-friendly for developers at all levels.
+**_E_**asi**_S_**cript**_X_**  a high level programming language designed and devloped in [C++](https://en.m.wikipedia.org/wiki/C%2B%2B) specifically for [Artifical Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Artificial_intelligence&ved=2ahUKEwiTurPdtsWIAxV93TQHHcvUHtQQFnoECC4QAQ&usg=AOvVaw0svSWXI233PfYA4MrKZd4I) (**AI**), [Machine Learning](https://en.m.wikipedia.org/wiki/Machine_learning) (**ML**), [Deep Learning](https://en.m.wikipedia.org/wiki/Deep_learning) and [Large Language Models](https://en.m.wikipedia.org/wiki/Large_language_model) (**LLM**s). It supports _both_ **Object-Oriented** and **Functional Programming** paradigms, making it adaptable and easy to use. While being powerful and flexible, _**ESX**_ remains user-friendly for developers at all levels.
 
 ## Key Features:
 - **AI and ML**: Over 100 built-in commands/functions specifically tailored for building AI and ML projects, LLM training, and Deep Learning models.
-- **IoT Integration (available shortly after ESX inital release)**: Special functions to work with IoT devices like Raspberry Pi and Arduino, making it a great choice for AI-IoT projects (e.g., creating smart assistants, autonomous robotics).
+- **IoT Integration (_available shortly after ESX inital release_)**: Special functions to work with IoT devices like Raspberry Pi and Arduino, making it a great choice for AI-IoT projects (e.g., creating smart assistants, autonomous robotics).
 - **Complete Backward Compatibility**: ESX inherits all 150 commands from [EasiScript](https://github.com/PulewaveSoftware/EasiScript).
 - **Planned Extensions**: Audio output features are in the roadmap for future updates.
 - **Advanced Networking**: Commands to handle distributed computing and data across networks.
