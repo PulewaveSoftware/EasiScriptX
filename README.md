@@ -31,6 +31,7 @@
 | **User-Friendly Syntax**            | ✔      | ✔ (varies)       | ✔                |
 | **Web-Based Integration**           | ✔      | ✔ (varies)       | Planned          |
 | **Creating with just basic knowledge in programming and AI**           | Maybe?      | Maybe?      |     ✔    |
+| **Dedicated for AI**           | No      | No Info, depends      |     ✔    |
 
 **Specialties of EasiScriptX (ESX):**
 - **Advanced AI/ML and LLM Support**: ESX is designed with a focus on AI, ML, and LLMs, providing specialized commands and functions for these tasks.
