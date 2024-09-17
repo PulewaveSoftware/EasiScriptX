@@ -12,6 +12,35 @@
 - **Planned Extensions**: Audio output features are in the roadmap for future updates.
 - **Advanced Networking**: Commands to handle distributed computing and data across networks.
 
+| Feature/Capability                  | Python | Other Languages | EasiScriptX (ESX) |
+|-------------------------------------|--------|------------------|------------------|
+| **General Purpose Programming**     | ✔      | ✔                | ✔                |
+| **Object-Oriented Programming**     | ✔      | ✔                | ✔                |
+| **Functional Programming**          | ✔      | ✔                | ✔                |
+| **Memory Management (Garbage Collection)** | ✔  | ✔ (varies)        | ✔                |
+| **Support for AI/ML Libraries**     | ✔      | ✔ (varies)       | ✔                |
+| **Ease of Use**                     | ✔      | ✔ (varies)       | ✔                |
+| **Dynamic Typing**                  | ✔      | ✔ (varies)       | ✔                |
+| **Extensive Standard Library**      | ✔      | ✔ (varies)       | ✔                |
+| **Integration with Python Libraries** | ✔   | ✔ (varies)       | ✔                |
+| **Built-in Support for Networking** | ✔      | ✔ (varies)       | ✔                |
+| **Support for IoT Devices (e.g., Raspberry Pi, Arduino)** | ✔ | ✔ (varies)   | ✔                |
+| **Advanced AI/ML and LLM Support**  | Limited | Varies           | ✔                |
+| **Audio Output Capabilities**       | ✔      | ✔ (varies)       | Planned          |
+| **Ease of Creating Custom Commands**| ✔      | ✔ (varies)       | ✔                |
+| **User-Friendly Syntax**            | ✔      | ✔ (varies)       | ✔                |
+| **Web-Based Integration**           | ✔      | ✔ (varies)       | Planned          |
+| **Creating with just basic knowledge in programming and AI**           | Maybe?      | Maybe?      |     ✔    |
+
+**Specialties of EasiScriptX (ESX):**
+- **Advanced AI/ML and LLM Support**: ESX is designed with a focus on AI, ML, and LLMs, providing specialized commands and functions for these tasks.
+- **Integrated Python Library Support**: ESX allows integration with Python libraries, combining ease of use with advanced capabilities.
+- **IoT Device Integration**: ESX includes features for working with IoT devices like Raspberry Pi and Arduino, making it suitable for IoT projects.
+- **Dynamic and User-Friendly**: ESX combines object-oriented and functional programming features in a user-friendly manner, making it accessible and versatile.
+
+This table highlights the core capabilities and unique features of each language/platform.
+
+
 ## Example Use Case: AI-IoT Integration
 You could build a smart home system using Raspberry Pi, where you train an AI model to recognize objects using a camera module and control IoT devices like lights or locks based on real-time AI inferences.
 
